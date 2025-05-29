@@ -1,0 +1,13 @@
+[
+    {
+    "nome": "Televisão yago",
+    "preco": "499",
+    "descricao": "Produto criado via automação",
+    "quantidade": "5"
+  },
+  {
+    "nome": "Sofá yago",
+    "preco": "399",
+    "descricao": "Produto criado via automação",
+    "quantidade": "8"
+  }]
