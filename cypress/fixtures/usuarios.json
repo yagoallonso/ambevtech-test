@@ -1,0 +1,20 @@
+[
+    {
+      "nome": "Usuário Admin",
+      "email": "admin@qa.com.br",
+      "password": "admin123",
+      "administrador": "true"
+    },
+    {
+      "nome": "Usuário Comum",
+      "email": "comum@qa.com.br",
+      "password": "senha123",
+      "administrador": "false"
+    },
+    {
+      "nome": "Usuário Teste",
+      "email": "teste@qa.com.br",
+      "password": "teste123",
+      "administrador": "true"
+    }
+  ]
